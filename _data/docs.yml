@@ -1,0 +1,46 @@
+- title: Getting Started
+  docs:
+  - home
+  - charter
+
+- title: Zoo Help
+  docs:
+  - zoo
+  - zoo-access
+  - zoo-help
+  - zoo-etiquette
+  - zoo-communications
+  - zoo-printing
+  - zoo-web
+  - zoo-setup
+  - zoo-remote
+  - zoo-faq
+  - free
+
+- title: Academics
+  docs:
+  - advice
+  - intro
+  - first-year
+  - math
+  - support
+  - bsms
+  - office-hours
+  - international
+
+- title: Professional Resources
+  docs:
+  - ocs
+  - conferences
+  - email
+
+- title: Clubs
+  docs:
+  - clubs
+  - hackathon
+
+- title: Development Resources
+  docs:
+  - cheatsheet
+  - font-awesome
+  - bootstrap
